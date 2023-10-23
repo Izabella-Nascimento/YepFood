@@ -5,6 +5,13 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: "poppins";
+  src: url(../../assets/fonts/Poppins-Regular.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 *{
   margin: 0;
   padding: 0;
@@ -33,7 +40,21 @@ body{
   align-items: center;
   width: 100%;
   height: 100vh;
-  padding: 0px 10px;
+  padding: 50px 77px 0px;
+}
+
+.home-button{
+  font-family: 'poppins';
+  color: #ffffff;
+  font-size: 1.2rem;
+  padding: 12px 58px;
+  background: #B61010;
+  border-radius: 60px;
+  transition: all 0.3s;
+}
+
+.home-button:hover{
+  background: #8b0f0f;
 }
 
 .menu{
@@ -86,3 +107,30 @@ body{
   padding-left: 16px;
 }
 
+.text{
+  max-width: 37rem;
+}
+
+.text .text-first-title{
+  font-family: 'sora';
+  font-size: 1rem;
+  font-weight: bold;
+  color: #B61010;
+  margin-bottom: 1rem;
+}
+
+.text .text-second-title{
+  font-family: 'sora';
+  color: #000000;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.text p{
+  font-family: 'sora';
+  color: #000000;
+  font-weight: bold;
+  font-size: 0.9rem;
+  margin-top: 1rem;
+  margin-bottom: 4rem;
+}
