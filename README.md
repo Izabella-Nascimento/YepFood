@@ -1,4 +1,4 @@
-<h1 align="center">Yep Food</h1>
+<h1 align="center">YepFood</h1>
 
 <p align="center">
     <img alt="Badge indicando que o projeto foi criado em Outubro de 2023" src="https://img.shields.io/badge/Data%20de%20cria%C3%A7%C3%A3o-Outubro%2F2023-red">
@@ -25,7 +25,7 @@ Confira e utilize o projeto no <a href="https://izabella-nascimento.github.io/Ye
 
 
 <h2 id="descricao">:pencil2: Descrição</h2>
-O Yep Food é uma landing page fictícia de fast food. Possui visual moderno com um banner construído em html e css. O design da página foi desenvolvido no Figma e Photoshop, contendo referências de landing pages semelhantes.  
+O YepFood é uma landing page fictícia de fast food. Possui visual moderno com um banner construído em html e css. O design da página foi desenvolvido no Figma e Photoshop, contendo referências de landing pages semelhantes.  
 
 <h2 id="funcionalidades">:hammer: Funcionalidades</h2>
 
