@@ -1,7 +1,7 @@
 <h1 align="center">YepFood</h1>
 
 <p align="center">
-    <img alt="Badge indicando que o projeto foi criado em Outubro de 2023" src="https://img.shields.io/badge/Data%20de%20cria%C3%A7%C3%A3o-Outubro%2F2023-red">
+    <img alt="Badge indicando que o projeto foi criado em Outubro de 2023" src="https://img.shields.io/badge/Data%20de%20cria%C3%A7%C3%A3o-Outubro%2F2023-B61010">
     <img alt="Badge indicando que o status do projeto é 'Em Progresso'" src="https://img.shields.io/badge/Status-Em Progresso-yellow">
 </p>
 
